@@ -11,6 +11,6 @@ only compile with linux(or OS X)
 
 # how to use
 
-cal_serv <port>
+cal_serv [PORT]
 
-cal_cli <ip> <port>
+cal_cli [IP] [PORT]
